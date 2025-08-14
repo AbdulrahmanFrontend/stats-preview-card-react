@@ -47,7 +47,7 @@ npm run dev
 
 ## Live Demo
 
-[🔗 View Live Site]()
+[🔗 View Live Site](https://stats-preview-card-react.vercel.app/)
 
 ## What I Learned
 
